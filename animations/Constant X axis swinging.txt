@@ -1,0 +1,4 @@
+Constant X axis swinging
+1
+0
+(Mth.sin(ageInTicks * 0.2F + 2) * 0.1F)

@@ -1,0 +1,6 @@
+Animations Plus
+animations_plus
+2.0
+NerdyPuzzle
+Adds more animation templates to the animation wizard
+Made with MCreator plugin builder by NerdyPuzzle

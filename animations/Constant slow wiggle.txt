@@ -1,0 +1,8 @@
+Constant slow wiggle
+3
+0
+(Mth.sin(ageInTicks * 0.3F + 2) * 0.05F) + ((headPitch * 0.017453292F) / 2)
+2
+(Mth.sin(ageInTicks * 0.6F + 2) * 0.05F)
+1
+((netHeadYaw * 0.017453292F) / 2)

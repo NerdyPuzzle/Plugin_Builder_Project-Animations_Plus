@@ -1,0 +1,10 @@
+Constant slow wiggle
+Constant X axis swinging
+Constant Y axis swinging
+Constant Z axis swinging
+Constant X axis left wing swing
+Constant Y axis left wing swing
+Constant Z axis left wing swing
+Constant X axis right wing swing
+Constant Y axis right wing swing
+Constant Z axis right wing swing

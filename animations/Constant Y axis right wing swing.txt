@@ -1,0 +1,4 @@
+Constant Y axis right wing swing
+1
+1
+(Mth.sin(ageInTicks * 0.6F) * 0.6F)
